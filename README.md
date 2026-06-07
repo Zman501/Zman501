@@ -1,5 +1,5 @@
 # Hello, I'm Zachary
-<a href="linkedin.com/in/zachary-sabatino"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://linkedin.com/in/zachary-sabatino"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a Cybersecurity professional currently growing my skills in the field and dedicating myself to continuous learning.
 
@@ -13,7 +13,7 @@ My interest in technology has led me to have a passion for the cybersecurity ind
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/Zman501/Active-Directory-SOC-Lab">Active Directory SOC Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://github.com/Zman501/Active-Directory-SOC-Lab">Active Directory SOC Lab</a>|
-| MITRE ATT&CK Emulation | <a href="https://google.com">Active Directory SOC Lab</a>|
+| MITRE ATT&CK Emulation | <a href="https://github.com/Zman501/Active-Directory-SOC-Lab">Active Directory SOC Lab</a>|
 
 ## Tools
 
