@@ -1,5 +1,5 @@
 # Hello, I'm Zachary
-<a href="www.linkedin.com/in/zachary-sabatino"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="linkedin.com/in/zachary-sabatino"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I'm a Cybersecurity professional currently growing my skills in the field and dedicating myself to continuous learning.
 
